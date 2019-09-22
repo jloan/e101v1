@@ -1,0 +1,38 @@
+<div class="sidebar">
+<!--  <div class="container sidebar-sticky"> -->
+ <div align="center">
+    <div class="sidebar-about"> 
+      <a href="{{ site.baseurl }}/"><h1>{{ site.title }}</h1></a>   
+      <a href="https://www.flickr.com/photos/cucchiaio/9197597257/in/photolist-f1L6e4-9iiB7L-718Phz-89J4qc-dpDwWS-6GA7fv-5E1FR1-bZG7sm-Eqb43x-c3ccEj-bSAci4-tpsBE-4nV6uF-f4F8Gc-PyRXf-JNCYL-aMXoYa-cmgAnb-dpDnQR-aMXoGZ-5DWkKM-dpDnQc-8bRYU8-4bcudU-5ZcZm9-MaEWa-8bV7TS-5kbg11-8bVdHf-aMXoNr-8bS3TV-5yLNBX-67Z6bE-vYGwPF-vKFqR6-2ce7RUT-LvJTi1-L156yE-L158ib-L156c7-Psm5e-44KzGe-5DWkFv-FtxSM-a5nWiC-5QgG2-aZJzwF-6dQFRL-4nV67p-eGjCaJ"><img src="{{ site.baseurl }}/images/toycar.jpg" width="223"/></a>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+
+    <ul class="sidebar-nav">
+<!--      <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
+        <a href="{{ site.baseurl }}/">Home</a> 
+        </li>  -->
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
+              <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+            </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+    </ul>
+<p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Course materials</span> licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 International License</a>.</p>
+<p><a href="https://github.com/jloan/e107v2">Get the repository for this site.</a></p>
+<!--    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
+
+</div>
+</div>
