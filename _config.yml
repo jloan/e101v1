@@ -17,7 +17,7 @@ tagline:
 description:        "E107|Pierce College|SP19"
 host:               127.0.0.1
 url:                ""
-baseurl:            "/e107v2"
+baseurl:            "/e101v1"
 email:              jloan@pierce.ctc.edu
 
 
