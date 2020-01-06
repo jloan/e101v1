@@ -38,3 +38,14 @@ Final grades will be determined by the student and the instructor based on the d
 *Students finfishing the course with at least 210 points will be eligible to receive at least a grade of C.* Again, finalizing this grade will be based on taking the self-evaluations of one's learning and the course outcomes into consideration. 
 
 *Students finishing the course with fewer than 210 points risk not passing the course and earning below a C (or 2.0).* Again, finalizing this grade will be based on taking the self-evaluations of one's learning and the course outcomes into consideration. 
+
+## ALP/Acceleration
+
+If you are enrolled in this course as part of the Accelerated Learning Program you have a couple of additional considerations in earning credit for 101 following completion of the course.
+
+To be eligible for acceleration, a student should:
+
+* By week 5 be on track for at least a C in the course.
+* Have consistently participated in the Supplemental ALP Lab.
+* By end of week 6, participate in collaborative assessment (with me) of sample of coursework in relation to 101 course outcomes. 
+* By week 7, remain on track for a C.
