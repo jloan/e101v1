@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/ 
 ---
-# Some Context
+# Overview
 
 *You might find this background interesting, and even necessarily, but you might also not and I'm cool with that. This is sort of thinking/making notes out loud. FEEL FREE TO SKIP TO THE OTHER STUFF* 
 
