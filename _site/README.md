@@ -1,3 +1,3 @@
-# e107v2 
+# e101v1 
 
-Course site for a English 107 (SP19) at Pierce College.
+Course site for a English 101 (W19) at Pierce College.
