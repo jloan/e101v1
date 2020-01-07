@@ -8,7 +8,7 @@ permalink: /schedule/
 
 Monday [Jan. 6]: Intro course/syllabus
 
-Tuesday [Jan. 7]: Intro course/syllabus (cont.) | Set-Up Logs and draft [opening week questionaire](materials/questionaire.txt)
+Tuesday [Jan. 7]: Intro course/syllabus (cont.) | Set-Up Logs and draft [opening week questionaire](https://github.com/jloan/e101v1/blob/master/materials/questionaire.txt)
 
 Wednesday [Jan. 8]: Start Blog Project | Workshop: Get Started with [Wordpress](https://wordpress.com/)
 
