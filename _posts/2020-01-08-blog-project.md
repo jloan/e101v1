@@ -35,7 +35,7 @@ Once you have an account set-up, you can pretty much start blogging. **But befor
 Take some time to do a couple of things:
 
 * Consider what you might blog about? Can you come up with and articulate a purpose for your blog?
-* Check out these two personal blogs -- Black.Bunched.Mass.Mom. and Spitalfields Life. Be sure to check out the "about" pages. Consider how these writers have defined a purpose for their blogging.
+* Check out these two personal blogs -- [Black.Bunched.Mass.Mom.](https://blackbunchedmassmom.wordpress.com/) and [Spitalfields Life](https://spitalfieldslife.com/). Be sure to check out the "about" pages. Consider how these writers have defined a purpose for their blogging.
 * Use the Wordpress dashboard (once you have an account) to explore other Wordpress blogs. Again, consider how the writers of these blogs have articulated their purpose for writing.
 
 
