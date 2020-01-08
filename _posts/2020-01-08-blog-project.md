@@ -83,3 +83,16 @@ In these 3 new posts, experiment with this:
 ### DUE Friday [Jan. 17]
 
 * At 3 new blog posts experiment with various features of the genre (multimedia writing, hyperlinking, ect.)
+
+## How Will This be Assessed? Or, how will I knowif I'm doing it right?
+
+For the most part this assignment will be assessed based on the labor and work you put in. If you complete all the components (posts, About page, experiemnets with hyperlinks and multimedia, etc.) you can expect to receive full credit for the assignment.
+
+Perhaps more importantly, your self-assessments and reflections will ask you to consider what blogging might teach us in relation to our course objectives. Things like:
+
+* Composing work in a variety of genres by using the writing process.
+* Applying key rhetorical concepts (writer, audience, subject, purpose, and context) in order to analyze and compose a variety of texts.
+* Analyzing texts as purposeful responses to a variety of situations and contexts as well as products of social identity (e.g., gender, ethnicity, sexuality, and social class).
+* Using rhetorically appropriate English language structures, including disciplinary conventions of syntax, grammar, punctuation, spelling voice, tone, and diction.
+* Demonstrating information competency.
+* Quote, paraphrase, cite and document sources appropriately in a consistent documentation style.
