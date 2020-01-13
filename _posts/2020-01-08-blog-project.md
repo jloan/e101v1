@@ -11,13 +11,13 @@ Our first project this quarter will be to compose a personal blog. Blogs are a g
 
 ![Back to The Old School]()
 
-And...if you want to get all offical about it -- this project fits squarely into our first course outcome:
+And...if you want to get all official about it -- this project fits squarely into our first course outcome:
 
 > Compose work in a variety of genres, including but not limited to thesis-driven, college-level essays that synthesize researched sources (3,500 words minimum of formal writing, total, excluding revisions) by using the writing process.
 
 Guess what? Blogs are a *genre*. So there!
 
-In all seriousness, we'll use blogs to learn a little something about genres, rhetorical situations, our own writing processes, information compentency, the decentralized web...even...citations! So relax. It's gonna be alright.
+In all seriousness, we'll use blogs to learn a little something about genres, rhetorical situations, our own writing processes, information competency, the decentralized web...even...citations! So relax. It's gonna be alright.
 
 
 ## Why a blog? Really...what's the purpose of this?
@@ -84,9 +84,9 @@ In these 3 new posts, experiment with this:
 
 * At 3 new blog posts experiment with various features of the genre (multimedia writing, hyperlinking, ect.)
 
-## How Will This be Assessed? Or, how will I knowif I'm doing it right?
+## How Will This be Assessed? Or, how will I know if I'm doing it right?
 
-For the most part this assignment will be assessed based on the labor and work you put in. If you complete all the components (posts, About page, experiemnets with hyperlinks and multimedia, etc.) you can expect to receive full credit for the assignment.
+For the most part this assignment will be assessed based on the labor and work you put in. If you complete all the components (posts, About page, experiments with hyperlinks and multimedia, etc.) you can expect to receive full credit for the assignment.
 
 Perhaps more importantly, your self-assessments and reflections will ask you to consider what blogging might teach us in relation to our course objectives. Things like:
 
