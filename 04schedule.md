@@ -26,4 +26,18 @@ Wednesday [Jan. 15]: Read (before class) ["History of Blogging: A Timeline"](htt
 
 Thursday [Jan. 16]: Workshop -- Blogging (Cont.)
 
-Friday [Jan.17]: **Due: Part Two of Blog Project (More posts)
+Friday [Jan.17]: **Due: Part Two of Blog Project (More posts)**
+
+### Week 3
+
+Monday [Jan. 20]: No Class (MLK observance)
+
+Tuesday [Jan. 21]: Workshop - Rubric Building (for Blogs) | [Research Log 2 DUE](https://jloan.github.io/e101v1/)
+
+Wednesday [Jan. 22]: Workshop - Rubric Building (cont)
+
+Thursday [Jan. 23]: Read (before class): Intro to Miller's "Genre as Social Action" (on Canvas); Excerpt from The Bedford Book of Genres
+
+Friday [Jan. 24]: Open Lab - Draft weekly self-eval and complete assessment declarations
+
+### Week 4
